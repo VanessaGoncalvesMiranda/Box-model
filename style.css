@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    height: 400px;
+    width: 400px;
+
+    border-width: 20px;
+    border-style: solid;
+    border-color: blueviolet;
+
+    background-image: url(img/amor_perfeito.jpg);
+    text-align: center;
+    box-shadow: inset 10px 6px 23px 10px purple ;
+    background-size: cover;
+
+    padding: 10px;
+
+    outline-width: 56px;
+    outline-style: double;
+    outline-color: blueviolet;
+
+    margin: auto;
+    margin-top: 100 px;
+    
+}
+
+p {
+    
+    padding-top: 130px;
+    color: yellow;
+    font-size: 45px;
+    font-weight: bold;
+    font-style: italic;
+  }
+
